@@ -1,0 +1,5 @@
+{
+    "require": {
+        "cristal/pptx": "^1.0"
+    }
+}
